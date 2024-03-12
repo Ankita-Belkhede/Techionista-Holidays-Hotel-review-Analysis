@@ -21,20 +21,19 @@ And used aggregated values such as average rating, total reviews, sentiment anal
 ## • Imported Data into Power BI: 
 Imported the cleaned and transformed dataset into Power BI Desktop. 
 
-## • Create Visualizations: 
+## • Created Visualizations: 
 Used the Power BI Desktop to create visualizations based on the dataset. 
 Selected the charts, graphs, and maps to represent the data effectively. 
 For example, created a bar chart to show the average rating of hotels across different countries and Map for selecting the Hotels globally and donut chat for types of travelers.
 
-## • Design the Dashboard: 
+## • Designed the Dashboard: 
 Arranged the visualizations on the Power BI canvas to create an interactive and intuitive dashboard. 
 Used the various formatting and customization options in Power BI to enhance the appearance and usability of your dashboard.
 
-## • Apply Filters and Interactivity: 
+## • Applied Filters and Interactivity: 
 Added filters and slicers to allow users to interact with the data. This enables them to drill down into specific regions, time periods, or other relevant dimensions. 
 Created Hierarchy for the year, Month, Date.
 
 ## • Published and Shared:  
-Publish your Power BI dashboard to the Power BI service. Share the 
-dashboard with relevant Team
+Publish Power BI dashboard to the Power BI service. Share the dashboard with relevant Team
 ![]([https://app.powerbi.com/groups/84d57ae1-6377-4ae1-b8cc-07defdeb956b/reports/cb230fe8-aa35-462f-a529-b8f71181de23/ReportSecti](https://app.powerbi.com/groups/84d57ae1-6377-4ae1-b8cc-07defdeb956b/reports/cb230fe8-aa35-462f-a529-b8f71181de23/ReportSection?experience=power-bi)https://app.powerbi.com/groups/84d57ae1-6377-4ae1-b8cc-07defdeb956b/reports/cb230fe8-aa35-462f-a529-b8f71181de23/ReportSection?experience=power-bi)
