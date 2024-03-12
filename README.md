@@ -6,9 +6,11 @@ Prepared a Power BI dashboard dataset containing 515,000 customer reviews and sc
 • Data Cleaning: Cleaned the dataset to remove any inconsistencies, duplicates, or 
 missing values. This step is crucial to ensure the accuracy and reliability of your analysis 
 but used delimiter and conditional Column.
+
 • Data Transformation: Transformed the dataset to make it suitable for analysis in Power 
 BI. This involved reshaping the data, merging multiple data sources, and creating 
 calculated columns.
+
 • Data Modeling: Created a data model that reflects the relationships between different 
 tables in the dataset. The tables for hotels, customers, reviews, and scoring. Defined the 
 appropriate relationships between these tables.
