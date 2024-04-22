@@ -1,7 +1,6 @@
 # Techionista-Holidays-Hotel-review-Analysis
 
 ### Prepared a Power BI dashboard dataset containing 515,000 customer reviews and scoring of 1493 luxury hotels across Europe, these are the steps:
-![Alt text](/path/to/image.jpg)
 
 ## • Data Cleaning: 
 Cleaned the dataset to remove any inconsistencies, duplicates, or missing values. 
