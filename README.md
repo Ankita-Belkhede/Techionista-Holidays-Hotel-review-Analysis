@@ -40,4 +40,4 @@ Publish Power BI dashboard to the Power BI service. Share the dashboard with rel
 https://app.powerbi.com/groups/84d57ae1-6377-4ae1-b8cc-07defdeb956b/reports/cb230fe8-aa35-462f-a529-b8f71181de23/ReportSection?experience=power-bi
 
 ![](https://github.com/Ankita-Belkhede/Techionista-Holidays-Hotel-review-Analysis/blob/main/Dashboard.png?raw=true)
-https://github.com/Ankita-Belkhede/
+
